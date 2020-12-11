@@ -1,5 +1,7 @@
 package com.sort;
 
+import java.util.List;
+
 public class BubbleSort {
     public static void main(String[] args) {
         int a[] = {2,0,2,1,1,0};
