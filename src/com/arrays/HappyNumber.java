@@ -9,7 +9,7 @@ import java.util.Set;
 
 public class HappyNumber {
     public static void main(String[] args) {
-        boolean ans = findHappyNumber(20 );
+        boolean ans = findHappyNumber(19 );
         System.out.println(ans);
     }
 

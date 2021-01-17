@@ -13,8 +13,8 @@ public class BinarySearch {
 
 	static int binarySearch(int a[], int f) {
 		int left = 0;
-		int right = a.length;
-		while (left < right) {
+		int right = a.length-1;
+		while (left <= right) {
 			int mid = left + (right - left) / 2;
 			if (a[mid] == f) {
 				return mid;

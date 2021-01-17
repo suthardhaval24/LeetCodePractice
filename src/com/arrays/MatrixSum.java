@@ -1,6 +1,4 @@
-package com.arrays;
-
-import com.arrays.MatrixMultiplication;
+package com.problems;
 
 import java.util.Scanner;
 

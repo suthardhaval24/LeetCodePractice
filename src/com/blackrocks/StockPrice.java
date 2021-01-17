@@ -48,7 +48,7 @@ public class StockPrice {
 
 	}
 
-	public static List<Trade> transactions(List<Asset> portfolio, List<Asset> benchMarks) {
+	 public static List<Trade> transactions(List<Asset> portfolio, List<Asset> benchMarks) {
 
 		List<Trade> numTransaction = new ArrayList<>();
 

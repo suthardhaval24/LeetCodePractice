@@ -1,5 +1,3 @@
-package com.arrays;
-
 import java.util.*;
 
 public class FindDistElement {

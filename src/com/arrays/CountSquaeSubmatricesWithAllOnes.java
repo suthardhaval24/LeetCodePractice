@@ -1,4 +1,4 @@
-package com.arrays;
+package com.problems;
 
 /*
 Leetcode medium
